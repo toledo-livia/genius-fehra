@@ -16,10 +16,10 @@ Da sua linha de comando:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/toledo-livia/bigdashboard
+$ git clone https://github.com/toledo-livia/genius-fehra
 
 # Go into the repository
-$ cd bigdashboard
+$ cd genius-fehra
 
 # Install dependencies
 $ yarn install
